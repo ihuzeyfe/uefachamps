@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  background: linear-gradient(51deg, rgba(57,132,244,1) 0%, rgba(12,211,255,1) 27%, rgba(12,193,252,1) 58%, rgba(12,190,251,1) 78%, rgba(14,101,232,1) 100%);
+}
+
+.socialMedia {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+}
+
+.footerp{
+    display: flex;
+    justify-content: center;
+}
+
+.scM{
+    padding: 2rem;
+    width: 5rem;
+    height: 5rem;
+}
