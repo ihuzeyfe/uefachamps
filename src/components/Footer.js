@@ -13,7 +13,7 @@ export const Footer = () => {
           <TwitterIcon className='scM'/>
         </div>
          <p className='footerp'>
-            @Tüm Hakları Saklıdır
+            @Tüm Hakları Saklıdır | UEFA Champs
          </p>
     </div>
   )
