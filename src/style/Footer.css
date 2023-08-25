@@ -19,7 +19,7 @@
 }
 
 .scM{
-    padding: 2rem;
-    width: 5rem;
-    height: 5rem;
+    padding: 2rem !important;
+    width: 5rem !important;
+    height: 5rem !important;
 }

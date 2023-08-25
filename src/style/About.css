@@ -1,0 +1,16 @@
+.about {
+    background-image: url("../assets/ballblack.jpg");
+    color: aliceblue;
+}
+.aboutBg {
+    width: 100%;
+    height: 90vh;
+    padding-left: 10rem;
+    padding-bottom: 5rem;
+}
+
+h1 {
+    margin: 0 !important;
+    padding-top: 20rem;
+    color: rgb(10, 41, 219);
+}

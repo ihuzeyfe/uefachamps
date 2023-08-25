@@ -1,11 +1,17 @@
 import React from 'react';
-import HomeBg from "../assets/ballblack.jpg";
+import {Link} from "react-router-dom";
 import "../style/Home.css";
 
 export const Home = () => {
   return (
-    <div>
-      <img className='homeBg' src={HomeBg} alt=''/>
+    <div className='homeBg'>
+      <div className='order'>
+      <Link to="/clubs">
+      <button className='clubs'>
+          CLUBS
+        </button>
+      </Link>
+      </div>
     </div>
   )
 }
